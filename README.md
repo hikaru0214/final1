@@ -4,4 +4,4 @@
 クラス    :SD2B<br>
 氏名      :吉田　光<br>
 システム名:観光名所システム<br>
-URL       :http://aso2201213.verse.jp/Git/final/src/<br>
+URL       :http://aso2201213.verse.jp/Git/final/src/top.php<br>
